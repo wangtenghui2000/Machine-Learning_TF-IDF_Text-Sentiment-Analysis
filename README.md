@@ -12,4 +12,10 @@ w-e-data保存到文本情感分析代码\机器学习\ML Model and emotion_dic\
 链接：https://pan.baidu.com/s/1lHbte6elesVyEMvOGzLMJg 
 提取码：tsxd
 
+
+代码使用说明：
+
+无论是TF-IDF还是和WordVec，都从核心代码main.py入手，代码注释中注释了不同的数据集和模型，使用者
+只需要改动注释就可以使用不同的模型和数据集，而后直接编译运行即可，模型的构建需要一些时间，请耐心等待结果输出
+
 请根据代码自行创建属于你的文件夹保存训练模型，数据集等文件
